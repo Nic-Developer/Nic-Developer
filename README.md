@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m @Erick F.
-- 👀 I’m interested in  MySQL, PHP,   React 
+- 👀 I’m interested in  MySQL, PHP,   Node.js
 - 🌱 I’m currently learning  Html, Css, Javascript
 - 📫  frontstudent4@gmail.com 
 <a href="https://www.linkedin.com/in/efnicolau/" target="_blank">
