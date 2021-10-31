@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Erick F.
-- 👀 I’m interested in  MySQL, PHP,   Node.js
-- 🌱 I’m currently learning  Html, Css, Javascript
-- 📫  ericknicolau89@outlook.com
 
 
 <p align="center">
